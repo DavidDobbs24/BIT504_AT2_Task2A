@@ -3,5 +3,7 @@
  */
 
 public enum Player {
-	Empty, Cross, Nought
+	Empty, //Represents an empty cell
+	Cross, // Represents a cell occupied by a cross (X)
+	Nought, // Represents a cell occupied by a nought (O)
 }
